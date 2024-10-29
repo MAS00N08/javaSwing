@@ -9,7 +9,7 @@ The .jar file is easier to run, but the .java file is also available if you want
 Both files require java to be installed on your system
 The .java would have to be run using either an IDE or a command terminal.
 When installing, you need all of the folders it is contained in. The image folder is important, and the code needs to be in the folders it is written in.
-![setVisible](https://github.com/user-attachments/assets/8422fe9c-583f-4eee-8e2d-85b704dba5b5)
+
 
 
 

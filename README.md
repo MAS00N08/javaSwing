@@ -6,3 +6,5 @@ An application created in Java using the Swing libraries. The app walks through 
 
 The file is a java file, so you need to run the application.java file
 
+
+![](javaSwing/application.png)
